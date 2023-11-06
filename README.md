@@ -2,4 +2,4 @@
 
 | Название проекта | Описание | Инструменты | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Проект по А/B-тестированию]([AB-test 1](https://github.com/varvaramambetova/portfolio/blob/main/AB-test%201/9.%20AB%20test.ipynb)) | В проекте необходимо провести оценку результатов А/В теста новой платёжной воронки интернет-магазина,оценить корректность проведения теста, определить статистическую разницу долей z-критерием| python, jupiter notebook pandas, matplotlib, datetime, numpy, scipy, plotly, math,seaborn|
+| [Проект по А/B-тестированию]((https://github.com/varvaramambetova/portfolio/blob/main/AB-test%201/9.%20AB%20test.ipynb)) | В проекте необходимо провести оценку результатов А/В теста новой платёжной воронки интернет-магазина,оценить корректность проведения теста, определить статистическую разницу долей z-критерием| python, jupiter notebook pandas, matplotlib, datetime, numpy, scipy, plotly, math,seaborn|
